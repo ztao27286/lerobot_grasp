@@ -409,7 +409,7 @@ PY
 
 ## 训练 ACT 策略
 
-训练建议在带 NVIDIA GPU 的开发机或训练服务器上执行。下面是本项目使用的训练命令，已按你的要求修改：
+训练建议在带 NVIDIA GPU 的开发机或训练服务器上执行。下面是本项目使用的训练命令：
 
 ```bash
 python lerobot/scripts/train.py \
