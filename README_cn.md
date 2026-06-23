@@ -236,7 +236,7 @@ python lerobot/scripts/control_robot.py \
 
 ## 采集数据集
 
-下面是本项目使用的采集命令，已按你的要求改成 `taoz/so100_total`、60 条 episode、每条 40 秒、不开启上传：
+下面是本项目使用的采集命令，默认 `taoz/so100_total`、60 条 episode、每条 40 秒、不开启上传：
 
 ```bash
 python lerobot/scripts/control_robot.py \
